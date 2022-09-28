@@ -1,0 +1,27 @@
+.MainCard__wrapper {
+  background: #1EAFED;
+  padding: 25px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.MainCard__mainTitle {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  color: #ffffff;
+}
+.MainCard__currencyInfo {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 25px;
+  color: #ffffff;
+}
+.MainCard__currencyName {
+
+}
+.MainCard__currencyAmount {
+
+}

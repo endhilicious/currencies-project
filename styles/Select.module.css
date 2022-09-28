@@ -1,0 +1,24 @@
+.Select__selectOption {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background: #ffffff;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='32' viewBox='0 0 24 24' width='32' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: 50%;
+  border: 1px solid #dfdfdf;
+  border-radius: 2px;
+  padding: 8px;
+  padding-right: 2rem;
+  width: 200px;
+  color: #000000;
+  box-shadow: 0px 4px 14px rgb(0 0 0 / 10%);
+  border-radius: 8px;
+  border: unset;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  cursor: pointer;
+  outline: none;
+  user-select: none;
+}

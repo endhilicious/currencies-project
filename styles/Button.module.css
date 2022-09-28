@@ -1,0 +1,12 @@
+.Button__wrapper {
+  background: #1EAFED;
+  box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ffffff;
+  border: none;
+  text-align: center;
+  padding: 10px;
+}
